@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: weixin.weixin-annotations.weixin-annotations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/weixin-annotations/build/libs/weixin-annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
